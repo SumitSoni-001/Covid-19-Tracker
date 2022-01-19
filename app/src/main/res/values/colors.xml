@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="Corona_active">#ff4f7b</color>
+    <color name="News_active">#249ED6</color>
+    <color name="Health_active">#F64006</color>
+    <color name="inactive">#515151</color>
+    <color name="layout_bg">#11122B</color>
+    <color name="ccp_bg">#F1F1F1</color>
+    <color name="cases_bg">#E3E3E3</color>
+    <color name="total">#FFC107</color>
+    <color name="active">#6CC307</color>
+    <color name="recovered">#17A4E4</color>
+    <color name="death">#E52112</color>
+    <color name="navbar">#181932</color>
+    <color name="health_card_bg">#F2F2F2</color>
+
+    <color name="minor_symptoms">#F1DB17</color>
+    <color name="average_symptoms">#FF9800</color>
+    <color name="serious_symptoms">#F23E06</color>
+
+    // Lay_bg =  #0F112E , navBar = #141633
+
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Covid19 Tracker</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Covid">Corona</string>
+    <string name="News">News</string>
+    <string name="Health">Health</string>
+    <string name="title">Covid-19</string>
+    <string name="total">Total</string>
+    <string name="active">Active</string>
+    <string name="recovered">Recovered</string>
+    <string name="death">Death</string>
+    <string name="country">Country</string>
+    <string name="Cases">Cases</string>
+    <string name="headline">Coronavirus in India live updates: Kerala records 20,240 fresh Covid cases, 67 deaths</string>
+    <string name="description">A person must take two doses of the anti-Covid vaccine, Covaxin, even after recovering from Covid-19, for being considered as a fully vaccinated individual, a Union health ministry official said. Stay</string>
+    <string name="symptoms">The COVID-19 virus affects different people in different ways.</string>
+    <string name="prevention">Check how to prevent infection and to slow transmission of COVID-19</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stats">Statistics</string>
+</resources>

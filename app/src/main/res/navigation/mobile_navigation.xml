@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_covid">
+
+    <fragment
+        android:id="@+id/navigation_covid"
+        android:name="com.example.covid19tracker.Fragments.CovidFragment"
+        android:label="@string/stats"
+        tools:layout="@layout/fragment_covid" />
+
+    <fragment
+        android:id="@+id/navigation_news"
+        android:name="com.example.covid19tracker.Fragments.NewsFragment"
+        android:label="@string/News"
+        tools:layout="@layout/fragment_news" />
+
+    <fragment
+        android:id="@+id/navigation_health"
+        android:name="com.example.covid19tracker.Fragments.HealthFragment"
+        android:label="@string/Health"
+        tools:layout="@layout/fragment_health" />
+</navigation>
